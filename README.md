@@ -31,5 +31,5 @@
   <div>
     <a href="https://space.bilibili.com/395663211/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/J_Marve1ous"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://https://t.me/Marve1ousJX/"><img src="https://img.shields.io/badge/Tg-telegram-blue" /></a>&emsp;
+    <a href="https://t.me/Marve1ousJX/"><img src="https://img.shields.io/badge/Tg-telegram-blue" /></a>&emsp;
   </div>
