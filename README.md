@@ -22,6 +22,7 @@
 ## 📱 Devices in use
 [![Redmi Note 9 4G](https://img.shields.io/badge/Redmi%20Note%209%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote9-4g)
 [![Xiaomi Note 3](https://img.shields.io/badge/Xiaomi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![Xiaomi Mi 5](https://img.shields.io/badge/Xiaomi%20Mi%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi5)
 [![Xiaomi Mi 6](https://img.shields.io/badge/Xiaomi%20Mi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi6)
 [![Xiaomi MIX 2](https://img.shields.io/badge/Xiaomi%20MIX%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix2)
 [![Xiaomi Mi 2S](https://img.shields.io/badge/Xiaomi%20Mi%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://p.www.xiaomi.com/zt/130406/params.html)
