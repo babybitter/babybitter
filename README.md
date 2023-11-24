@@ -4,7 +4,7 @@
  - You can call me Marve1ous.
  - Learning Android Rom development | Linux.
  - Maintaining ROMs for `Mi Note 3 (jason)`.
- - Chinese ICQ (QQ): 2829245700
+ - Tencent QQ: 2829245700
  - If you have a fun project, please take me with you ~
  - Love Android development, and strive to become an excellent Android developer
 
