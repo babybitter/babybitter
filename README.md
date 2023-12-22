@@ -7,7 +7,7 @@
  - If you have a fun project, please take me with you ~
  - Love Android development, and strive to become an excellent Android developer
 
-### Contact me | 联系我
+### Contact me | 联系我 <img style="width: 60%;" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=babybitter&theme=nord_bright" />
 - Tencent QQ | QQ : 2829245700
 - GitHub | GitHub : [Github@Babybitter](https://github.com/babybitter)
 - Netease Cloud Music | 网易云音乐 [NCM@Marve1ous-](https://music.163.com/#/user/home?id=1758946355)
@@ -40,5 +40,3 @@
 [![Xiaomi MIX 2](https://img.shields.io/badge/Xiaomi%20MIX%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix2)
 [![Xiaomi Mi 2S](https://img.shields.io/badge/Xiaomi%20Mi%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://p.www.xiaomi.com/zt/130406/params.html)
 ![Samsung Galaxy Z Flip](https://img.shields.io/badge/Samsang%20Galaxy%20Z%20Flip-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)
-
-![Marve1ous' commit time status](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=babybitter&theme=default&utcOffset=8)
